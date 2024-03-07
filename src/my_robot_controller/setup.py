@@ -14,8 +14,8 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='sarthak',
-    maintainer_email='sarthak@todo.todo',
-    description='TODO: Package description',
+    maintainer_email='sarthakkhandare21@gmail.com',
+    description='Guardian Robot:The Robot For The Industrial Purpose',
     license='TODO: License declaration',
     tests_require=['pytest'],
     entry_points={
